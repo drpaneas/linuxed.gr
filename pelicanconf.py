@@ -48,8 +48,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-	  ('github', 'https://github.com/drpaneas/'),
-          ('twitter', 'https://twitter.com/'),
+	  ('github', 'https://github.com/drpaneas/linuxed.gr'),
+          ('twitter', 'https://twitter.com/PanosGeorgiadis/'),
           ('linkedin', 'https://gr.linkedin.com/in/panosgeorgiadis/'),
           ('google+', 'https://plus.google.com/+PanosGeorgiadis/posts'),    
           ('professional site', 'http://panosgeorgiadis.com/cv-resume-about'),
