@@ -105,7 +105,7 @@ SITELOGO_SIZE = 32
 FAVICON = 'images/favicon.png'
 
 ABOUT_ME = "Είμαι μηχανικός αυτοματισμού, δικτύων και προγραμματιστής. Ζω στην Νυρεμβέργη, και εργάζομαι στην <a href=\"https://www.suse.com\">SUSE Linux</a> \
-<p>Περισσότερα για μένα <strong><a href=\"http://panosgeorgiadis.com\" title=\"προσωπικό website\">panosgeorgiadis.com</a></strong></p>\
+<p>Περισσότερα  <strong><a href=\"http://panosgeorgiadis.com\" title=\"προσωπικό website\">panosgeorgiadis.com</a></strong></p>\
 <p>Στείλε μου " + """<a href="http://www.google.com/recaptcha/mailhide/d?k=01LH1gOAhxE28Ox7OsdvErgw==&amp;c=BSpEioonKQfn4LENsgaUuuynPzcSun1HlW9Pc0_-B3c=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501LH1gOAhxE28Ox7OsdvErgw\75\75\46c\75BSpEioonKQfn4LENsgaUuuynPzcSun1HlW9Pc0_-B3c\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Εμφάνισε την δίευθυνση e-mail"><strong>mail</strong></a></p>"""
 AVATAR = "/images/headshot.png"
 
@@ -121,7 +121,6 @@ PYGMENTS_STYLE = 'monokai'
 ############################ Plugins ######################################
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['simple_footnotes', 'extract_toc', 'feed_summary']
-#PLUGINS = ['feed_summary']
 FEED_USE_SUMMARY = True
 SUMMARY_MAX_LENGTH = 100
 
