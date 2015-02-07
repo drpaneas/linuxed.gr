@@ -18,7 +18,7 @@ def system_path(path):
 AUTHOR = u'Panos Georgiadis'
 SITENAME = u'L I N U X E D'
 SITESUBTITLE = u"Ένα blog αφιερωμένο στο Linux και το Open Source."
-SITEURL = ''
+SITEURL = 'linuxed.gr'
 
 PATH = 'content'
 DELETE_OUTPUT_DIRECTORY = True
@@ -87,7 +87,7 @@ DISQUS_SITENAME = 'linuxedgr'
 DISQUS_SHORTNAME = 'linuxedgr'
 DISQUS_DISPLAY_COUNTS = True
 
-#GOOGLE_ANALYTICS = "UA-57661864-1"
+GOOGLE_ANALYTICS = "UA-57661864-1"
 
 ADDTHIS_PROFILE = 'ra-548e3c553a19ddf3'
 ADDTHIS_DATA_TRACK_ADDRESSBAR = False

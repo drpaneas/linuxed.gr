@@ -12,10 +12,14 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=502.acd.myftpupload.com
+#SSH_HOST=502.acd.myftpupload.com
 SSH_PORT=22
-SSH_USER=drpaneas
-SSH_TARGET_DIR=/var/chroot/home/content/52/10571152/html/linuxed
+#SSH_USER=drpaneas
+#SSH_TARGET_DIR=/var/chroot/home/content/52/10571152/html/linuxed
+
+SSH_USER=root
+SSH_HOST=linuxed.gr
+SSH_TARGET_DIR=/var/www/html/linuxed
 
 S3_BUCKET=my_s3_bucket
 
